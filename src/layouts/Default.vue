@@ -17,7 +17,7 @@
 
     <footer class="footer">
       <span class="footer__copyright">Tituba © {{ new Date().getFullYear() }}. </span>
-      <span class="footer__links">Powered by <a href="//www.etlair.cg"> SUITS </a></span>
+      <span class="footer__links">Powered by <a href="//www.elair.cg"> SUITS </a></span>
     </footer>
 
   </div>
