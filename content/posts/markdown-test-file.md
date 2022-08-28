@@ -1,10 +1,10 @@
 ---
-title: Adresse e-mail professionnel et marketing avec extension.CG
-date: 2019-02-06
+title: Création et location des sites web et applications
+date: 2022-08-24T23:00:00.000Z
 published: true
 tags: []
 canonical_url: false
-cover_image: ../../static/images/uploads/3aa6a9de-768f-40ed-a4a7-9c2173956225.png
+cover_image: ../../static/images/uploads/5b36f2a4-958f-417b-903a-e8616dba2801.webp
 description: Markdown is intended to be as easy-to-read and easy-to-write as is
   feasible. Readability, however, is emphasized above all else. A
   Markdown-formatted document should be publishable as-is, as plain text,
