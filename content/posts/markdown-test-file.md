@@ -2,9 +2,7 @@
 title: Adresse e-mail professionnel et marketing avec extension.CG.
 date: 2019-02-06
 published: true
-tags:
-  - Markdown
-  - Test files
+tags: []
 canonical_url: false
 cover_image: ../../static/images/uploads/3aa6a9de-768f-40ed-a4a7-9c2173956225.png
 description: Markdown is intended to be as easy-to-read and easy-to-write as is
