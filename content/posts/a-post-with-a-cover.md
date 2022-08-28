@@ -3,9 +3,7 @@ title: Création et location de site web et application  avec un nom de domaine
   en .CG comme extension.
 date: 2022-08-22T00:00:00.000Z
 published: true
-tags:
-  - Markdown
-  - Cover Image
+tags: []
 cover_image: ../../static/images/uploads/5b36f2a4-958f-417b-903a-e8616dba2801.webp
 description: Markdown is intended to be as easy-to-read and easy-to-write as is
   feasible. Readability, however, is emphasized above all else. A
