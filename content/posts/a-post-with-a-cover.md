@@ -1,6 +1,5 @@
 ---
-title: Création et location de site web et application  avec un nom de domaine
-  en .CG comme extension.
+title: Création et location de site web et applications.
 date: 2022-08-22T00:00:00.000Z
 published: true
 tags: []
