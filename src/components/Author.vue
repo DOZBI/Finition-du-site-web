@@ -6,7 +6,7 @@
 		</h1>
 
 		<p class="author__intro">
-			
+			Elair service digital
 		</p>
 
 		<p class="author__links">
