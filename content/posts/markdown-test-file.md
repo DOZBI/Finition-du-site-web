@@ -1,5 +1,5 @@
 ---
-title: Adresse e-mail professionnel et marketing avec extension.CG.
+title: Adresse e-mail professionnel et marketing avec extension.CG
 date: 2019-02-06
 published: true
 tags: []
